@@ -1,0 +1,28 @@
+---
+title: "test5"
+author: "Dan Baldewicz"
+date: "February 10, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Test 5
+
+```{r}
+
+library(ggplot2)
+library(tabplot)
+
+df <- data(diamonds)
+
+
+
+
+
+
+
+
+```
